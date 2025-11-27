@@ -10,5 +10,4 @@
 
 ## Deploy To Render
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://giCE-
-repo=https://github.com/brijesheditor/Txtuploader28).
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://giCE-repo=https://github.com/brijesheditor/Txtuploader28).
